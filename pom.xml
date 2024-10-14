@@ -44,6 +44,11 @@
       <artifactId>javafx-swing</artifactId>
       <version>22.0.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-email</artifactId>
+      <version>1.5</version>
+    </dependency>
     <!-- icon packs -->
     <dependency>
       <groupId>org.kordamp.ikonli</groupId>
