@@ -101,6 +101,7 @@ public class RootController implements Initializable {
         servidorText.clear();
         puertoText.clear();
         remitenteText.clear();
+        contraseñaText.clear();
         destinatarioText.clear();
         asuntoText.clear();
         mensajeText.clear();
