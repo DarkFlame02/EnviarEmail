@@ -10,7 +10,7 @@ public class EnviarEmailApp extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("Mis Amigos");
+        primaryStage.setTitle("Enviar email");
         primaryStage.setScene(new Scene(rootController.getRoot()));
         primaryStage.show();
     }
